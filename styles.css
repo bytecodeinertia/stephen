@@ -1,0 +1,24 @@
+body{
+    padding: 0%;
+    background-color: rgb(231, 235, 243); 
+}
+.header{
+    background-color: rgb(216, 243, 162);
+     
+}
+ul{
+    padding: 0%;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 200fr 100fr 100fr 200fr 200fr;
+     background-image: url(./img/vector.jpg);
+     text-transform: capitalize;
+}
+li{
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0%;
+    margin: 5%;
+    text-align: center;
+    background-color: rgb(170, 238, 170);
+}
